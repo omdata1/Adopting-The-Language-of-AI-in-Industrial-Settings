@@ -10,7 +10,7 @@ That's where Markdown comes in.
 
 From OpenClaw's `soul.md` to Anthropic's `claude.md`, you can't miss it. Markdown is becoming the language of AI–human interaction.
 
-When I wrote the article on "Markdown as Translator" for industrial organizations a few months ago ([linked here](https://www.linkedin.com/feed/update/urn:li:activity:7418452444247900160/)), I had no idea Markdown would gain such exponential traction.
+When I wrote the article on "Markdown as Code" for industrial organizations a few months ago ([linked here](https://www.linkedin.com/feed/update/urn:li:activity:7418452444247900160/)), I had no idea Markdown would gain such exponential traction.
 
 Today, Markdown is already the language for communicating with AI, from managing agents to writing specs for code.
 
