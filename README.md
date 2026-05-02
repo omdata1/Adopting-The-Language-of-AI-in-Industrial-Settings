@@ -21,3 +21,6 @@ So then, what's the action for industrial technology leaders?
 Start with the language that matters for AI and agents. Enable engineering, operations, and maintenance teams to start putting AI agent instructions and specs in Markdown. It's easy, simple, and vendor-independent.
 
 Then let the AI models translate it into data models, ontologies, and code to generate the real outcomes.
+
+
+<img width="1254" height="1254" alt="markdown-industrial" src="https://github.com/user-attachments/assets/2ffae31d-0d5f-46d1-8aa6-d8bd607f4605" />
